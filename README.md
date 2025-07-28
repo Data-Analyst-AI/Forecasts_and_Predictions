@@ -1,4 +1,19 @@
-# Estrategia de Retención en Model Fitness – Sprint 9
+### 🏋️‍♀️ Retention Strategy at Model Fitness – Sprint 9
+
+This project tackles a key challenge in the fitness industry: detecting silent customer churn and reducing cancellation through data analytics. The *Model Fitness* chain has digitized user profiles to generate churn predictions and design targeted actions to strengthen retention.
+
+---
+
+## What’s it about?
+
+- Built a predictive model to estimate the likelihood of customer cancellation for the upcoming month  
+- Segmented users into clusters to identify typical profiles of churn vs. loyalty  
+- Analyzed key factors driving customer loss  
+- Formulated recommendations to enhance user experience and improve retention
+
+---
+
+### Estrategia de Retención en Model Fitness – Sprint 9
 
 Este proyecto responde a un reto clave en la industria fitness: detectar abandono silencioso de clientes y reducir la cancelación mediante analítica de datos. La cadena *Model Fitness* ha digitalizado perfiles de usuario para generar predicciones de churn y diseñar acciones concretas que fortalezcan la retención.
 
